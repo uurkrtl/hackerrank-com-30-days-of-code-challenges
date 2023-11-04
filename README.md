@@ -21,3 +21,5 @@ Day 9: https://www.hackerrank.com/challenges/30-recursion
 Day 10: https://www.hackerrank.com/challenges/30-binary-numbers
 
 Day 11: https://www.hackerrank.com/challenges/30-2d-arrays
+
+Day 12: https://www.hackerrank.com/challenges/30-inheritance
