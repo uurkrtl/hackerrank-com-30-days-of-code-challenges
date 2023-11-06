@@ -25,3 +25,5 @@ Day 11: https://www.hackerrank.com/challenges/30-2d-arrays
 Day 12: https://www.hackerrank.com/challenges/30-inheritance
 
 Day 13: https://www.hackerrank.com/challenges/30-abstract-classes
+
+Day 14: https://www.hackerrank.com/challenges/30-scope
